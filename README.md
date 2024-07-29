@@ -50,6 +50,6 @@ Você pode conferir mais sobre o meu trabalho no meu [portfólio](https://www.se
 
 Estou sempre aberto a novas oportunidades e colaborações. Você pode me encontrar nas seguintes plataformas:
 
-- [LinkedIn](https://www.linkedin.com)
+- [LinkedIn]("https://www.linkedin.com/in/marcelo-santos-777972ba/)
 - [Twitter](https://twitter.com)
 - [Email](mailto:seuemail@dominio.com)
