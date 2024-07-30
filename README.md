@@ -1,6 +1,6 @@
 # Olá, eu sou o Marcelo! 👋
 
-## Sobre mim
+## Sobre mim :bust_in_silhouette:
 
 Sou graduado em Análise e Desenvolvimento de Sistemas, e recentemente tenho focado em desenvolver projetos na área de front-end. Minha paixão por tecnologia me impulsiona a sempre buscar aprender mais e a me aprofundar cada vez mais nesse vasto campo.
 
@@ -25,7 +25,7 @@ Tenho experiência e desenvolvo projetos utilizando as seguintes tecnologias:
 
 ###
 
-## Minha Jornada
+## Minha Jornada :rocket:
 
 A decisão de me aprofundar em front-end veio da necessidade de criar meu próprio portfólio, e durante essa jornada adquiri um bom conhecimento em diversas tecnologias e ferramentas.
 
@@ -34,7 +34,7 @@ A decisão de me aprofundar em front-end veio da necessidade de criar meu própr
 - **Frameworks e Bibliotecas**: Experiência com Angular, ReactJS e VueJS, que me permitem desenvolver aplicações robustas e escaláveis.
 - **TailwindCSS**: Utilizo essa ferramenta para estilizar de forma rápida e responsiva, acelerando meu processo de desenvolvimento.
 
-## Projetos
+## Projetos :newspaper:
 
 Alguns dos projetos em que trabalhei recentemente incluem:
 
