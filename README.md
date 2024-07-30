@@ -57,7 +57,7 @@ Você pode conferir mais sobre o meu trabalho no meu [portfólio](https://www.se
 
 ## Contato
 
-Estou sempre aberto a novas oportunidades e colaborações. Você pode me encontrar nas seguintes plataformas:
+Estou em busca da minha primeira oportunidade de emprego como desenvolvedor. Meu sonho é um dia me tornar um desenvolvedor de destaque e contribuir significativamente para a área de tecnologia. Você pode me encontrar nas seguintes plataformas:
 
 <div>
   <a href="https://www.linkedin.com/in/marcelo-santos-777972ba/" target="_blank">
