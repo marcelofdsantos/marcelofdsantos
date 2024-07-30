@@ -46,6 +46,15 @@ Alguns dos projetos em que trabalhei recentemente incluem:
 
 Você pode conferir mais sobre o meu trabalho no meu [portfólio](https://www.seuportifolio.com).
 
+##
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelofdsantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelofdsantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 ## Contato
 
 Estou sempre aberto a novas oportunidades e colaborações. Você pode me encontrar nas seguintes plataformas:
