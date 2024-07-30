@@ -42,7 +42,7 @@ Alguns dos projetos em que trabalhei recentemente incluem:
 2. **[Projeto 2](link-para-o-projeto)** - Um SPA (Single Page Application) desenvolvido com Angular e Sass.
 3. **[Projeto 3](link-para-o-projeto)** - Um site responsivo utilizando VueJS e Bootstrap.
 
-## Portfólio
+## Portfólio :globe_with_meridians:
 
 Você pode conferir mais sobre o meu trabalho no meu [portfólio](https://www.seuportifolio.com).
 
