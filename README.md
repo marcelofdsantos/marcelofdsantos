@@ -20,6 +20,7 @@ Tenho experiência e desenvolvo projetos utilizando as seguintes tecnologias:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind" /> 
 </div>
 
@@ -38,9 +39,9 @@ A decisão de me aprofundar em front-end veio da necessidade de criar meu própr
 
 Alguns dos projetos em que trabalhei recentemente incluem:
 
-1. **[Projeto 1](link-para-o-projeto)** - Uma aplicação web construída com ReactJS e TailwindCSS.
-2. **[Projeto 2](link-para-o-projeto)** - Um SPA (Single Page Application) desenvolvido com Angular e Sass.
-3. **[Projeto 3](link-para-o-projeto)** - Um site responsivo utilizando VueJS e Bootstrap.
+1. **[Projeto 1](https://burguer-star.vercel.app/)** - Uma aplicação web construída com ReactJS,Vite e TailwindCSS.
+<!--2. **[Projeto 2](link-para-o-projeto)** - Um SPA (Single Page Application) desenvolvido com Angular e Sass.-->
+<!--3. **[Projeto 3](link-para-o-projeto)** - Um site responsivo utilizando VueJS e Bootstrap.-->
 
 ## Portfólio :globe_with_meridians:
 
