@@ -43,11 +43,11 @@ Alguns dos projetos em que trabalhei recentemente incluem:
 <!--2. **[Projeto 2](link-para-o-projeto)** - Um SPA (Single Page Application) desenvolvido com Angular e Sass.-->
 <!--3. **[Projeto 3](link-para-o-projeto)** - Um site responsivo utilizando VueJS e Bootstrap.-->
 
-## Portfólio :globe_with_meridians:
+<!--## Portfólio :globe_with_meridians:-->
 
 <!--Você pode conferir mais sobre o meu trabalho no meu [portfólio](https://www.seuportifolio.com).-->
 
-##
+<!--##-->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcelofdsantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
