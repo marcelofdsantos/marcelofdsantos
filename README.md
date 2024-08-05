@@ -39,7 +39,7 @@ A decisão de me aprofundar em front-end veio da necessidade de criar meu própr
 
 Alguns dos projetos em que trabalhei recentemente incluem:
 
-1. **[https://burguer-star.vercel.app/)** - Uma aplicação web construída com ReactJS,Vite e TailwindCSS.
+1. **[Projeto 1](https://burguer-star.vercel.app/)** - Uma aplicação web construída com ReactJS,Vite e TailwindCSS.
 <!--2. **[Projeto 2](link-para-o-projeto)** - Um SPA (Single Page Application) desenvolvido com Angular e Sass.-->
 <!--3. **[Projeto 3](link-para-o-projeto)** - Um site responsivo utilizando VueJS e Bootstrap.-->
 
