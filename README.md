@@ -48,6 +48,7 @@ Alguns dos projetos em que trabalhei recentemente incluem:
 <!--Você pode conferir mais sobre o meu trabalho no meu [portfólio](https://www.seuportifolio.com).-->
 
 <!--##-->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelofdsantos&theme=dark&show_icons=true)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=marcelofdsantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -68,5 +69,5 @@ Estou em busca da minha primeira oportunidade de emprego como desenvolvedor. Meu
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelofdsantos&theme=dark&show_icons=true)
+
 
