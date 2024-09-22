@@ -85,7 +85,7 @@ Alguns dos projetos em que trabalhei recentemente incluem:
 <!--Você pode conferir mais sobre o meu trabalho no meu [portfólio](https://www.seuportifolio.com).-->
 
 <!--##-->
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marcelofdsantos&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelofdsantos&theme=github_dark&hide_border=false" alt="GitHub Streak Stats"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofdsantos&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
