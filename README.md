@@ -43,25 +43,6 @@ Tenho experiência e desenvolvo projetos utilizando as seguintes tecnologias:
 <span>
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </span>
-<!--
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind" /> 
-</div>
--->
-###
 
 ## Minha Jornada :rocket:
 
@@ -72,7 +53,9 @@ A decisão de me aprofundar em front-end veio da necessidade de criar meu própr
 - **Frameworks e Bibliotecas**: Experiência com Angular, ReactJS e VueJS, que me permitem desenvolver aplicações robustas e escaláveis.
 - **TailwindCSS**: Utilizo essa ferramenta para estilizar de forma rápida e responsiva, acelerando meu processo de desenvolvimento.
 
-## Projetos :newspaper:
+
+
+<!--Projetos :newspaper:
 
 Alguns dos projetos em que trabalhei recentemente incluem:
 
@@ -83,22 +66,17 @@ Alguns dos projetos em que trabalhei recentemente incluem:
 <!--## Portfólio :globe_with_meridians:-->
 
 <!--Você pode conferir mais sobre o meu trabalho no meu [portfólio](https://www.seuportifolio.com).-->
-
-<!--##-->
+# 📊 Estatísticas do GitHub:
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=marcelofdsantos&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelofdsantos&theme=github_dark&hide_border=false" alt="GitHub Streak Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofdsantos&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofdsantos&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"><br/>
+  <img src="https://visitcount.itsvg.in/api?id=marcelofdsantos&icon=2&color=1" alt="Visit Count">
 </div>
 
-##
-<!--
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcelofdsantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelofdsantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
--->
+## 🏆 Troféus do GitHub
 
+![](https://github-profile-trophy.vercel.app/?username=marcelofdsantos&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4)
 
 ## Contato
 
@@ -112,5 +90,6 @@ Estou em busca da minha primeira oportunidade de emprego como desenvolvedor. Meu
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </div>
+
 
 
