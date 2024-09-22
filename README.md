@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Marcelo!  <img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif" alt="GIF" width="50" style="float:right;" />
+#  Olá, eu sou o Marcelo! 👋  
 
 
 ## Sobre mim :bust_in_silhouette:
@@ -45,7 +45,7 @@ Tenho experiência e desenvolvo projetos utilizando as seguintes tecnologias:
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </span>
 
-## Minha Jornada :rocket:
+## Minha Jornada :rocket: <img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif" alt="GIF" width="50" style="float:right;" />
 
 A decisão de me aprofundar em front-end veio da necessidade de criar meu próprio portfólio, e durante essa jornada adquiri um bom conhecimento em diversas tecnologias e ferramentas.
 
