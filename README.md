@@ -7,7 +7,7 @@ Sou graduado em Análise e Desenvolvimento de Sistemas, e recentemente tenho foc
 ## Tecnologias que utilizo
 
 Tenho experiência e desenvolvo projetos utilizando as seguintes tecnologias:
-
+<div align="left">
 - ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) **Angular.js**
 - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) **Next.js**
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) **React**
@@ -15,6 +15,7 @@ Tenho experiência e desenvolvo projetos utilizando as seguintes tecnologias:
 - ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) **Vite**
 - ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) **NPM**
 - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) **Vercel**
+</div>
 
 <!--
 <div align="left">
