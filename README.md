@@ -1,4 +1,5 @@
-# Olá, eu sou o Marcelo! 👋
+# 👋 Olá, eu sou o Marcelo!  <img src="https://media.giphy.com/media/M3nwJpDEUxkCzVftCi/giphy.gif" alt="GIF" width="50" style="float:right;" />
+
 
 ## Sobre mim :bust_in_silhouette:
 
