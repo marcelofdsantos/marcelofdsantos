@@ -72,8 +72,7 @@ Alguns dos projetos em que trabalhei recentemente incluem:
   <img src="https://github-readme-stats.vercel.app/api?username=marcelofdsantos&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelofdsantos&theme=github_dark&hide_border=false" alt="GitHub Streak Stats"><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelofdsantos&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"><br/>
-  <img src="https://visitcount.itsvg.in/api?id=marcelofdsantos&icon=2&color=1" alt="Visit Count">
-</div>
+ 
 
 ## 🏆 Troféus do GitHub
 
